@@ -1,0 +1,622 @@
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.cache
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\Windows10\Documents\Informatika'19\TUGAS!\Semester 3\Pemrograman Basis Data\UTS\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarDosen.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJabatan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJabatan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJabatan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojAssemblyReference.cache
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarDosen.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJabatan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJabatan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJabatan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.cache
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CoreCompileInputs.cache
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CopyComplete
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarDosen.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJabatan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJabatan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJabatan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojAssemblyReference.cache
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJabatan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.cache
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CoreCompileInputs.cache
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CopyComplete
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojAssemblyReference.cache
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.cache
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CoreCompileInputs.cache
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.CopyComplete
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+D:\UTS_PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojAssemblyReference.cache
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteJadwal.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKelas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKRS.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.cache
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+D:\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarDetails.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarDetails.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe.config
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.exe
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\pbd_36_MyUniversity.pdb
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.dll
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MySql.Data.dll
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\bin\Debug\MyUniversity_LIB.pdb
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csprojResolveAssemblyReference.cache
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarDetails.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJabatan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJadwal.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKelas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarKRS.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarMataKuliah.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDaftarOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormDeleteNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditJadwal.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKelas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditKRS.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormEditNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusMatkul.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormHapusOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormLogin.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormMenu.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJadwal.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKelas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahKRS.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahMatkul.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahNilai.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormTambahOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahFakultas.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahJurusan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahKaryawan.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMahasiswa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahMatKul.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.FormUbahOrmawa.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.Properties.Resources.resources
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.csproj.GenerateResource.Cache
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.exe
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\pbdUAS_36_MyUniversity\pbd_36_MyUniversity\pbd_36_MyUniversity\obj\Debug\pbd_36_MyUniversity.pdb

@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B077BA5F-3CFD-415A-8394-35E676BB6628}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pbd_36_MyUniversity</RootNamespace>
+    <AssemblyName>pbd_36_MyUniversity</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MyUniversity_LIB">
+      <HintPath>..\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormDaftarDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarDetails.Designer.cs">
+      <DependentUpon>FormDaftarDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarFakultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarFakultas.Designer.cs">
+      <DependentUpon>FormDaftarFakultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarJabatan.Designer.cs">
+      <DependentUpon>FormDaftarJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarJadwal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarJadwal.Designer.cs">
+      <DependentUpon>FormDaftarJadwal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarJurusan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarJurusan.Designer.cs">
+      <DependentUpon>FormDaftarJurusan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarKaryawan.Designer.cs">
+      <DependentUpon>FormDaftarKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarKelas.Designer.cs">
+      <DependentUpon>FormDaftarKelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarKRS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarKRS.Designer.cs">
+      <DependentUpon>FormDaftarKRS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarMahasiswa.Designer.cs">
+      <DependentUpon>FormDaftarMahasiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarMataKuliah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarMataKuliah.Designer.cs">
+      <DependentUpon>FormDaftarMataKuliah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarNilai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarNilai.Designer.cs">
+      <DependentUpon>FormDaftarNilai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarOrmawa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarOrmawa.Designer.cs">
+      <DependentUpon>FormDaftarOrmawa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteNilai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteNilai.Designer.cs">
+      <DependentUpon>FormDeleteNilai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditJadwal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditJadwal.Designer.cs">
+      <DependentUpon>FormEditJadwal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditKelas.Designer.cs">
+      <DependentUpon>FormEditKelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditKRS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditKRS.Designer.cs">
+      <DependentUpon>FormEditKRS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditNilai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditNilai.Designer.cs">
+      <DependentUpon>FormEditNilai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHapusFakultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHapusFakultas.Designer.cs">
+      <DependentUpon>FormHapusFakultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHapusJurusan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHapusJurusan.Designer.cs">
+      <DependentUpon>FormHapusJurusan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHapusKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHapusKaryawan.Designer.cs">
+      <DependentUpon>FormHapusKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHapusMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHapusMahasiswa.Designer.cs">
+      <DependentUpon>FormHapusMahasiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHapusMatkul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHapusMatkul.Designer.cs">
+      <DependentUpon>FormHapusMatkul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHapusOrmawa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHapusOrmawa.Designer.cs">
+      <DependentUpon>FormHapusOrmawa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahFakultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahFakultas.Designer.cs">
+      <DependentUpon>FormTambahFakultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahJadwal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahJadwal.Designer.cs">
+      <DependentUpon>FormTambahJadwal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahJurusan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahJurusan.Designer.cs">
+      <DependentUpon>FormTambahJurusan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahKaryawan.Designer.cs">
+      <DependentUpon>FormTambahKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahKelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahKelas.Designer.cs">
+      <DependentUpon>FormTambahKelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahKRS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahKRS.Designer.cs">
+      <DependentUpon>FormTambahKRS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahMahasiswa.Designer.cs">
+      <DependentUpon>FormTambahMahasiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahMatkul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahMatkul.Designer.cs">
+      <DependentUpon>FormTambahMatkul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahNilai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahNilai.Designer.cs">
+      <DependentUpon>FormTambahNilai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTambahOrmawa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTambahOrmawa.Designer.cs">
+      <DependentUpon>FormTambahOrmawa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahFakultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahFakultas.Designer.cs">
+      <DependentUpon>FormUbahFakultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahJurusan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahJurusan.Designer.cs">
+      <DependentUpon>FormUbahJurusan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahKaryawan.Designer.cs">
+      <DependentUpon>FormUbahKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahMahasiswa.Designer.cs">
+      <DependentUpon>FormUbahMahasiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahMatKul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahMatKul.Designer.cs">
+      <DependentUpon>FormUbahMatKul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUbahOrmawa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUbahOrmawa.Designer.cs">
+      <DependentUpon>FormUbahOrmawa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormDaftarDetails.resx">
+      <DependentUpon>FormDaftarDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarFakultas.resx">
+      <DependentUpon>FormDaftarFakultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarJabatan.resx">
+      <DependentUpon>FormDaftarJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarJadwal.resx">
+      <DependentUpon>FormDaftarJadwal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarJurusan.resx">
+      <DependentUpon>FormDaftarJurusan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarKaryawan.resx">
+      <DependentUpon>FormDaftarKaryawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarKelas.resx">
+      <DependentUpon>FormDaftarKelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarKRS.resx">
+      <DependentUpon>FormDaftarKRS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarMahasiswa.resx">
+      <DependentUpon>FormDaftarMahasiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarMataKuliah.resx">
+      <DependentUpon>FormDaftarMataKuliah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarNilai.resx">
+      <DependentUpon>FormDaftarNilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarOrmawa.resx">
+      <DependentUpon>FormDaftarOrmawa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteNilai.resx">
+      <DependentUpon>FormDeleteNilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditJadwal.resx">
+      <DependentUpon>FormEditJadwal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditKelas.resx">
+      <DependentUpon>FormEditKelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditKRS.resx">
+      <DependentUpon>FormEditKRS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditNilai.resx">
+      <DependentUpon>FormEditNilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHapusFakultas.resx">
+      <DependentUpon>FormHapusFakultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHapusJurusan.resx">
+      <DependentUpon>FormHapusJurusan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHapusKaryawan.resx">
+      <DependentUpon>FormHapusKaryawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHapusMahasiswa.resx">
+      <DependentUpon>FormHapusMahasiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHapusMatkul.resx">
+      <DependentUpon>FormHapusMatkul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHapusOrmawa.resx">
+      <DependentUpon>FormHapusOrmawa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahFakultas.resx">
+      <DependentUpon>FormTambahFakultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahJadwal.resx">
+      <DependentUpon>FormTambahJadwal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahJurusan.resx">
+      <DependentUpon>FormTambahJurusan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahKaryawan.resx">
+      <DependentUpon>FormTambahKaryawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahKelas.resx">
+      <DependentUpon>FormTambahKelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahKRS.resx">
+      <DependentUpon>FormTambahKRS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahMahasiswa.resx">
+      <DependentUpon>FormTambahMahasiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahMatkul.resx">
+      <DependentUpon>FormTambahMatkul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahNilai.resx">
+      <DependentUpon>FormTambahNilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTambahOrmawa.resx">
+      <DependentUpon>FormTambahOrmawa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahFakultas.resx">
+      <DependentUpon>FormUbahFakultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahJurusan.resx">
+      <DependentUpon>FormUbahJurusan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahKaryawan.resx">
+      <DependentUpon>FormUbahKaryawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahMahasiswa.resx">
+      <DependentUpon>FormUbahMahasiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahMatKul.resx">
+      <DependentUpon>FormUbahMatKul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUbahOrmawa.resx">
+      <DependentUpon>FormUbahOrmawa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

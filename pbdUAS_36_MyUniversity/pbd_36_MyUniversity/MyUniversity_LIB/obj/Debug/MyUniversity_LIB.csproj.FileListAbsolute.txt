@@ -1,0 +1,61 @@
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CoreCompileInputs.cache
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CopyComplete
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+D:\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\pbd_36_MyUniversity40%\pbd_36_MyUniversity25%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CoreCompileInputs.cache
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CopyComplete
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+D:\pbd_36_MyUniversity90%\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Documents\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojAssemblyReference.cache
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CoreCompileInputs.cache
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CopyComplete
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+D:\UTS_PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+D:\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+D:\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+D:\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CoreCompileInputs.cache
+D:\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csproj.CopyComplete
+D:\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+D:\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD(benakno bacadata jadwal, kelas mari, eror ndek panel2)\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb
+C:\Users\USER\Downloads\Project UAS PBD Sama ning2\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.dll
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\bin\Debug\MyUniversity_LIB.pdb
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.csprojResolveAssemblyReference.cache
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.dll
+D:\Project UAS PBD\Project UAS PBD Semoga Nutut\Project UAS PBD\pbd_36_MyUniversity\MyUniversity_LIB\obj\Debug\MyUniversity_LIB.pdb

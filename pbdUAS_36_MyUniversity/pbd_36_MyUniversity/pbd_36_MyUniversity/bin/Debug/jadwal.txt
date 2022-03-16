@@ -1,0 +1,60 @@
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID Jadwal : 1
+Hari : Senin
+Jam : 07.00 - 09.45
+Matakuliah : 1011 - Alpro
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID Jadwal : 2
+Hari : Kamis
+Jam : 10.40 - 12.30
+Matakuliah : 1011 - Alpro
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID Jadwal : 3
+Hari : Selasa
+Jam : 07.00 - 09.45
+Matakuliah : 1012 - Matdis
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID Jadwal : 6
+Hari : Selasa
+Jam : 12.00 Oke
+Matakuliah : 1011 - Alpro
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID Jadwal : 4
+Hari : Senin
+Jam : 1400
+Matakuliah : 2011 - Kimia
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID Jadwal : 5
+Hari : Seninn
+Jam : 13.00
+Matakuliah : 2011 - Kimia
+==================================================

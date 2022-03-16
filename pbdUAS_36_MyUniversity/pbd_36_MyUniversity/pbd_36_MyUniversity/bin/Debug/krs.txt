@@ -1,0 +1,360 @@
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 1
+Tanggal : 12/9/2020 12:00:00 AM
+Mahasiswa : 101002
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 4
+Tanggal : 12/15/2020 12:00:00 AM
+Mahasiswa : 101002
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 2
+Tanggal : 12/9/2020 12:00:00 AM
+Mahasiswa : 201001
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 6
+Tanggal : 12/2/2020 12:00:00 AM
+Mahasiswa : 201001
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 3
+Tanggal : 12/15/2020 12:00:00 AM
+Mahasiswa : 401001
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 5
+Tanggal : 12/15/2020 12:00:00 AM
+Mahasiswa : 401001
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 7
+Tanggal : 12/5/2020 12:00:00 AM
+Mahasiswa : 401001
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
+
+MY UNIVERSITY
+Jl. Cantik Surabaya
+Telp. (031) - 12345678
+==================================================
+ID KRS : 8
+Tanggal : 12/16/2020 12:00:00 AM
+Mahasiswa : 401001
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Senin
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Kamis
+Jam : 10.40 - 12.30
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Matdis
+Hari : Selasa
+Jam : 07.00 - 09.45
+==================================================
+Details KRS
+Kelas : TC 4.1
+Mata Kuliah : Alpro
+Hari : Selasa
+Jam : 12.00 Oke
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Senin
+Jam : 1400
+==================================================
+Details KRS
+Kelas : FG 6.2
+Mata Kuliah : Kimia
+Hari : Seninn
+Jam : 13.00
+==================================================
